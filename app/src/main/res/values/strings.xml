@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlayVideo</string>
+    <string name="urlVideo"><![CDATA[\"http://r3---sn-aigllnse.googlevideo.com/videoplayback?itag=22&nh=IgpwcjAyLmxocjE0KgkxMjcuMC4wLjE&mime=video%2Fmp4&key=yt6&fexp=9413031%2C9416126%2C9416903%2C9419452%2C9420452%2C9422596%2C9423661%2C9423662%2C9426943%2C9427036%2C9427892%2C9427902%2C9428542%2C9429351%2C9432197%2C9432683&ratebypass=yes&expire=1459219274&ipbits=0&dur=219.033&signature=1465537B5B42B3961199757021E0B023FFF93563.1F2ABC2BCE4764862F23F4A786CFDAFD1796AF63&sver=3&mm=31&mn=sn-aigllnse&id=o-AM1cWvonllP8LVlGKuThD9H8-DO_7zLTZ4rP_CDe-ERb&pl=22&mt=1459197568&sparams=dur%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Csource%2Cupn%2Cexpire&mv=m&ms=au&ip=146.185.29.12&lmt=1426699770289932&upn=HzFEcn46IBw&source=youtube&initcwndbps=1010000&title=PROGRAMAME+OLOT+2015]]></string>
+</resources>
